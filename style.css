@@ -1,0 +1,19 @@
+img {
+  height:500px; 
+  width: 400px;
+}
+
+p.oblique {
+font-style: oblique;
+} 
+table {
+  border-collapse: collapse;
+}
+table, th, td, {
+  border:solid 10px slateblue;
+}
+
+
+
+
+
