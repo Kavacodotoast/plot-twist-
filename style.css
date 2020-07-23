@@ -9,8 +9,8 @@ font-style: oblique;
 table {
   border-collapse: collapse;
 }
-table, th, td, {
-  border:solid 10px slateblue;
+table, th, td {
+  border: solid 3px black;
 }
 
 
