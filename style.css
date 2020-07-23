@@ -10,8 +10,24 @@ table {
   border-collapse: collapse;
 }
 table, th, td {
-  border: solid 3px black;
+  border: solid 8px rgb(46, 127, 202);
 }
+p {
+font-family: Verdana, Arial, Tahoma, Serif;
+}
+table {
+  width: 70%;
+}
+
+th {
+  height: 50px;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+
+
 
 
 
